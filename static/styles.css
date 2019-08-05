@@ -1,0 +1,56 @@
+body {
+  background-color: #BDA18B;
+
+}
+
+#wrapper {
+  background-color: #F2F3EE;
+  margin: auto;
+  margin-top: 0px;
+  padding: 0px;
+  width: 900px;
+  display: block;
+}
+
+#header {
+    background-color: #F2F3EE;
+    width: inherit;
+    height: 60px;
+    margin: auto;
+    padding: 0px;
+}
+
+button {
+    background-color: #BDA18B;
+    font-family: "Consolas";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    margin: 15px 0px 15px 150px;
+    height: 30px;
+    width: 100px;
+    color: black;
+}
+
+table,th,td {
+    border: 1px solid black;
+    background-color: #384661;
+}
+
+th,td{
+    color: #F2F3EE;
+}
+
+table{
+    border-collapse: collapse;
+    width: 900px;
+}
+
+div {
+    background-color: #BDA18B;
+    height: 20px;
+}
+
+#table_style{
+    background-color: white;
+}
